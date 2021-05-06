@@ -1,6 +1,6 @@
 # CRC BACKUP TOOL
 
-##Installation Instructions
+## Installation Instructions
 
 Open your terminal, or cmd, and cd into the cloned folder.
 make sure you have **python** and **pip** installed
